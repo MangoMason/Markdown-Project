@@ -6,4 +6,4 @@ Welcome to Page 1
   - Item 1
   - Item 2
 
-[Back to Home](ReadME.md) | [Go to Page 2](page2.md)
+[Back to Home](README.md) | [Go to Page 2](page2.md)
